@@ -1,4 +1,4 @@
-# TwoThreeTree
+# Introduction
 
 This code contains a balanced 2-3 Tree data structure coded from scratch, which includes a Tree class and Node class. The 2-3 tree is known to be balanced, meaning each leaf is at the same level. It is known as a 2-3 tree, since every node either has one data element and two children, or two data elements and three children.
 
